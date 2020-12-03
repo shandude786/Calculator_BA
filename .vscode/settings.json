@@ -1,0 +1,21 @@
+{
+    "git.useForcePushWithLease": false,
+    "github.gitAuthentication": false,
+    "git.timeline.showAuthor": false,
+    "git.terminalAuthentication": false,
+    "git.showInlineOpenFileAction": false,
+    "git.showCommitInput": false,
+    "git.showProgress": false,
+    "git.suggestSmartCommit": false,
+    "git.pullTags": false,
+    "git.openDiffOnClick": false,
+    "git.enableStatusBarSync": false,
+    "git.enabled": false,
+    "git.decorations.enabled": false,
+    "git.detectSubmodules": false,
+    "git.confirmSync": false,
+    "git.confirmForcePush": false,
+    "git.confirmEmptyCommits": false,
+    "git.confirmNoVerifyCommit": false,
+    "git.autorefresh": false
+}
